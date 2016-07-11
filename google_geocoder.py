@@ -7,8 +7,8 @@ Created on Mon Jul 11 13:43:06 2016
 
 import csv
 
-from geopy.geocoders import GoogleV3 as google
 #import the Google geocoding capability 
+from geopy.geocoders import GoogleV3 as google
 
 locator = google()
 address = open(r"geocode.txt", 'r')
