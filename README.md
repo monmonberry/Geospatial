@@ -6,4 +6,4 @@ Some of these have been written for use with ESRI's Arcpy, and will need a licen
 
 Others can just run without specialised software.
 
-Thanks to everyone who has helped me out with geo-python :)
+Thanks to everyone who has helped me out with python.
